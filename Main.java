@@ -8,7 +8,7 @@ public class Main {
         try (Scanner scanner = new Scanner(System.in)) {
             do {
                 System.out.println("\n--- Student Grade Management ---");
-                System.out.println("1. Add Student");
+                System.out.println("1. Add a Student");
                 System.out.println("2. View All Students");
                 System.out.println("3. Exit");
                 System.out.print("Enter choice: ");
